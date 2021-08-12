@@ -1,0 +1,58 @@
+,Id,Name,Gender,House,Blood,Loyalty,Spell
+0,47,Draco,Male,Slytherin,Pure-blood,,Everte Statum
+1,47,Draco,Male,Slytherin,Pure-blood,,Serpensortia
+2,37,Flitwick,Male,Ravenclaw,Part-Goblin,,Wingardium Leviosa
+3,36,Gilderoy Lockhart,Male,Ravenclaw,Half-blood,,Alarte Ascendare
+4,36,Gilderoy Lockhart,Male,Ravenclaw,Half-blood,,Brackium Emendo
+5,36,Gilderoy Lockhart,Male,Ravenclaw,Half-blood,,Peskipiksi Pesternomi
+6,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Arania Exumai
+7,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Arania Exumai
+8,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Expecto Patronum
+9,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Expecto Patronum
+10,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Expecto Patronum
+11,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Expecto Patronum
+12,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Expecto Patronum
+13,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Expecto Patronum
+14,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Expelliarmus
+15,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Expelliarmus
+16,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Lumos
+17,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Lumos
+18,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Lumos
+19,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Lumos
+20,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Lumos
+21,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Rictusempra
+22,1,Harry,Male,Gryffindor,Half-blood,Albus Dumbledore | Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Wingardium Leviosa
+23,3,Hermione,Female,Gryffindor,Muggle-born,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Alohomora
+24,3,Hermione,Female,Gryffindor,Muggle-born,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Bombarda
+25,3,Hermione,Female,Gryffindor,Muggle-born,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Finite
+26,3,Hermione,Female,Gryffindor,Muggle-born,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Immobulus
+27,3,Hermione,Female,Gryffindor,Muggle-born,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Oculus Reparo
+28,3,Hermione,Female,Gryffindor,Muggle-born,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Oculus Reparo
+29,3,Hermione,Female,Gryffindor,Muggle-born,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Wingardium Leviosa
+30,3,Hermione,Female,Gryffindor,Muggle-born,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Alohomora
+31,3,Hermione,Female,Gryffindor,Muggle-born,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Bombarda
+32,3,Hermione,Female,Gryffindor,Muggle-born,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Finite
+33,3,Hermione,Female,Gryffindor,Muggle-born,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Immobulus
+34,3,Hermione,Female,Gryffindor,Muggle-born,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Oculus Reparo
+35,3,Hermione,Female,Gryffindor,Muggle-born,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Oculus Reparo
+36,3,Hermione,Female,Gryffindor,Muggle-born,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Wingardium Leviosa
+37,127,Lupin,Male,Hufflepuff,Half-blood,,Expecto Patronum
+38,127,Lupin,Male,Hufflepuff,Half-blood,,Expelliarmus
+39,127,Lupin,Male,Hufflepuff,Half-blood,,Immobulus
+40,127,Lupin,Male,Hufflepuff,Half-blood,,Riddikulus
+41,127,Lupin,Male,Hufflepuff,Half-blood,,Riddikulus
+42,127,Lupin,Male,Hufflepuff,Half-blood,,Riddikulus
+43,30,Mcgonagall,Female,Gryffindor,Half-blood,Albus Dumbledore | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Vera Verto
+44,30,Mcgonagall,Female,Gryffindor,Half-blood,Albus Dumbledore | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Vera Verto
+45,6,Neville,Male,Gryffindor,Pure-blood,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Riddikulus
+46,26,Parvati,Female,Gryffindor,Pure-blood or half-blood,Dumbledore's Army |Hogwarts School of Witchcraft and Wizardry,Riddikulus
+47,2,Ron,Male,Gryffindor,Pure-blood,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Alohomora
+48,2,Ron,Male,Gryffindor,Pure-blood,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Riddikulus
+49,2,Ron,Male,Gryffindor,Pure-blood,Dumbledore's Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry,Vera Verto
+50,46,Snape,Male,Slytherin,Half-blood,,Expelliarmus
+51,46,Snape,Male,Slytherin,Half-blood,,Expelliarmus
+52,46,Snape,Male,Slytherin,Half-blood,,Vipera Evanesca
+53,58,Tom Riddle,Male,Slytherin,Half-blood,,Arania Exumai
+54,58,Tom Riddle,Male,Slytherin,Half-blood,,Cistem Aperio
+55,58,Tom Riddle,Male,Slytherin,Half-blood,,Arania Exumai
+56,58,Tom Riddle,Male,Slytherin,Half-blood,,Cistem Aperio
